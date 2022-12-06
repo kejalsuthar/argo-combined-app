@@ -9,7 +9,7 @@ spec:
   - argo-combined-app
   hosts:
   - argo-combined-app.local
-  - tktesting.tech
+  - myapp.tktesting.tech
   http:
   - name: primary
     route:
